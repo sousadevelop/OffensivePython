@@ -1,8 +1,10 @@
 import os
 import time
 
-blue = '\033[1;36;40m'
-green = '\033[1;36;42m'
+# Cores
+RED   = "\033[1;31m"  
+BLUE  = "\033[1;34m"
+RESET = "\033[0;0m"
 
 sites = 'hosts.txt'
 print(os.getcwd())
@@ -12,8 +14,8 @@ with open(sites) as file:
     dump = dump.splitlines()            # Separa por linhas como está escrito no arquivo
 
     for ip in dump:
-        print(f'{green}Verificando o IP: ', ip)
-        print(f'{blue}~~' * 100)
+        print(RED + 'Verificando o IP: ', ip + RESET)
+        print(BLUE + '~~' * 100 + RESET)
         os.system("ping -n 3 {}".format(ip))
-        print(f'{blue}~~' * 100)
+        print(BLUE + '~~' * 100 + RESET)
         time.sleep(4)
