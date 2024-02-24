@@ -20,7 +20,7 @@ print(CYAN + """
 """ + RESET)
 
 file_1 = input("Digite o hash que deseja identificar: ").lower()
-file_2 = 'rockyou.txt'
+file_2 = 'rockyou.txt'      # você precisa baixar a rockyou.txt e anexar na pasta do script
 
 with open(file_2, 'rb') as file:
     for line in file:
