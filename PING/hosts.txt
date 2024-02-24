@@ -1,4 +1,0 @@
-google.com
-youtube.com
-tryhackme.com
-github.com
