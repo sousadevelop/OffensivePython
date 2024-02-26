@@ -5,11 +5,11 @@
 	<a href="https://nmap.org/"><img src="https://img.shields.io/badge/made%20with-nmap-blueviolet"></a>
 </p>
 
-- [Visão geral](#Visão geral)
+- [Resumo](#Resumo)
 - [Executando](#Executando)
 - [Uso](#Uso)
 
-# Visão geral
+# Resumo
 O scanner de portas é uma ferramenta da rede utilizada para realizar uma varredura de serviços em determinado IP ou Host. A ferramenta Nmap é a mais conhecida, por seus scanners personalizados e foco em vulnerabilidades. Aqui você encontrará três ferramentas que realizam a mesma coisa, mas caberá a você escolher a que mais se encaixa no seu contexto. Duas delas são integradas com o Nmap, a outra é mais simples utilizando apenas o socket.
 
 # Executando
