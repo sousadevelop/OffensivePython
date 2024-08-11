@@ -105,15 +105,17 @@ Para contribuir com o OffensivePython, siga estes passos:
 
    1. Faça um fork deste repositório.
    2. Crie um branch: git checkout -b <nome-do-branch>.
-   3. Faça suas alterações e confirme-as: git commit -m '<mensagem-do-commit>'.
-   4. Envie para o branch original: git push origin <nome-do-projeto> / <local>.
+   3. Faça suas alterações e confirme-as: git commit -m ' < mensagem-do-commit >'.
+   4. Envie para o branch original: git push origin < nome-do-projeto > / < local >.
    5. Crie um pull request.
    
 Alternativamente, consulte a documentação do GitHub sobre como criar um pull request.
 
 ## Créditos / Referências / Agradecimentos / Motivação
-Gostaríamos de expressar nossa sincera gratidão aos criadores de projetos e técnicas incríveis, que nos forneceram as ferramentas e a inspiração necessárias para criar este repositório extraordinário.
+Eu gostaria expressar minha gratidão, primeiramente à Deus e segundo para as diversas pessoas que me ensinaram até aqui, desde cursos incríveis como os citados abaixo, como a amigos que tem me ajudado nessa trajetória de programação e pentest, dando-me inspiração para criar esse repositório que embora seja, simples, carrega todas as ideias facilitadoras que venho tendo.
 
-  - Exemplo de Projeto 1
-  - Exemplo de Projeto 2
-  - Exemplo de Projeto 3
+  - Alguns cursos que me ajudaram foram das plataformas:
+     - Dio.me
+     - Desec Security
+     - Cyph3r
+     - Documentação de Libs usadas do Python
