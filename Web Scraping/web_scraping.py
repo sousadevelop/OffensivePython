@@ -21,7 +21,7 @@ print(CYAN + '''
 ''' + RESET)
 
 link = input("""Digite o site que deseja analisar.\n 
-Exemplo: http://www.site.com.br/\n
+Exemplo autorizado: https://example.com/\n
 ->  """)
 
 # O objeto link receberá o conteúdo da requisição http do site informado no input...

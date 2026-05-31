@@ -1,5 +1,3 @@
-Enquanto você está vivo, você precisa de uma razão para sua existência. Ser incapaz de encontrar uma razão é o mesmo que estar morto.
-como viver
-quero ser assim
-porque fez isso
-agora vai dar certo
+LAB_PLACEHOLDER_ONE
+LAB_PLACEHOLDER_TWO
+LAB_PLACEHOLDER_THREE
