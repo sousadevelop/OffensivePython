@@ -144,6 +144,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Local secrets and generated lab artifacts
+.env.*
+*.secret
+*.token
+life_secret.example.png
+
+# Editor scratch files
+tempCodeRunnerFile.py
+
 # PyCharm
 #  JetBrains specific template is maintainted in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

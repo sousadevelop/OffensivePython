@@ -24,7 +24,8 @@ print(CYAN + '''
                                                
 ''' + RESET)
 
-# Exemplo de site para teste: "https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar"
+# Use somente URLs locais ou explicitamente autorizadas.
+# Exemplo reservado para documentacao: "https://example.com/"
 
 def start(url):
 

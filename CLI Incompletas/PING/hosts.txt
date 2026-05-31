@@ -1,4 +1,3 @@
-google.com
-youtube.com
-tryhackme.com
-github.com
+127.0.0.1
+localhost
+192.0.2.1
